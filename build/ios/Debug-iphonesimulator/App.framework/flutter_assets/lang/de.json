@@ -1,0 +1,10 @@
+{
+    "appTitle":"WidgetBook Bewertung",
+    "send":"Senden",
+    "enterName":"Namen hier eingeben",
+    "name": "Name",
+    "fieldCannotBeEmpty":"Feld darf nicht leer sein",
+    "nameShouldOnlyContainAlphabets":"Der Name sollte nur Buchstaben enthalten",
+    "hello":"Hallo",
+    "anErrorOccurred":"ein Fehler ist aufgetreten"
+}
